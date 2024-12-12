@@ -1,0 +1,13 @@
+# Node.js Task Management API
+
+A backend API built with Node.js and Express for managing tasks. It provides endpoints for creating, reading, updating, and deleting tasks.
+
+## Features
+- RESTful API for task management.
+- Includes CRUD functionality.
+- Integrated with MongoDB for data persistence.
+- Includes validation for API inputs.
+
+## Prerequisites
+- Node.js (v14 or later)
+- MongoDB (Installed and running locally or on a remote server)
